@@ -6,6 +6,9 @@
 
   <br>
 
+
+
+
 - 🌱 I’m currently learning **C,C++ programming language.**
 
 - 📫 How to reach me **sp01042002@gmail.com**
@@ -13,7 +16,7 @@
 - ⚡ Fun fact **Food and Music🎵 are the reasons to live.**
 <p align="left">
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sp201004&label=Profile%20views&color=0e75b6&style=flat" alt="sp201004" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sp201004" alt="sp201004" /></a> </p>
 
