@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Surya Pratap Singh</h1>
 <h3 align="center">Hello! I am Surya Pratap Singh,
   Currently pursuing B.Tech in Computer Science & Engineering from NIT Agartala.
   Currently I am learning C++.</h3>
