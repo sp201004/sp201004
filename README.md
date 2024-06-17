@@ -1,6 +1,5 @@
-<h3 align="center">Hello! I am Surya Pratap Singh,
-  Currently pursuing B.Tech in Computer Science & Engineering from NIT Agartala.
-  Currently I am learning C++.</h3>
+<h1 align="center">Hi there 👋 Myself Surya Pratap Singh</h1>
+<h3 align="center">Currently pursuing B.Tech in Computer Science & Engineering from NIT Agartala.</h3>
 
 <br>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
@@ -8,7 +7,7 @@
 
   <br>
 
-- 🌱 I’m currently learning **C,C++ programming language and Data Analytics**
+- 🌱 I’m currently learning **C,C++ programming language.**
 
 - 📫 How to reach me **sp01042002@gmail.com**
 
