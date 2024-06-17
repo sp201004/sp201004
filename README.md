@@ -14,8 +14,6 @@
 - 📫 How to reach me **sp01042002@gmail.com**
 
 - ⚡ Fun fact **Food and Music🎵 are the reasons to live.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sp201004&label=Profile%20views&color=0e75b6&style=flat" alt="sp201004" /> </p>
