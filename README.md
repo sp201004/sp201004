@@ -3,6 +3,10 @@
   Currently pursuing B.Tech in Computer Science & Engineering from NIT Agartala.
   Currently I am learning C++.</h3>
 
+<br>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+  </p>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sp201004&label=Profile%20views&color=0e75b6&style=flat" alt="sp201004" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sp201004" alt="sp201004" /></a> </p>
