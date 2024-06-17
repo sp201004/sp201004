@@ -23,10 +23,9 @@
 <p align="left">
   
 <a href="https://linkedin.com/in/surya-pratap-singh-16930425a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya-pratap-singh-16930425a/" height="30" width="40" /></a>
-<a href = 'https://www.twitter.com/truething.33'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>  
 <a href = 'https://www.github.com/sp201004'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  <br>
-<br>
+<a href = 'https://www.twitter.com/truething.33'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
+
   <br>
 
 <h3 align="left">Languages and Tools:</h3>
