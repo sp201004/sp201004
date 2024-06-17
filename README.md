@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surya Pratap Singh</h1>
-<h3 align="center">Hello! I am Surya Pratap Singh,Currently pursuing B.Tech in Computer Science & Engineering from NIT Agartala. Currently I am learning C++.</h3>
+<h3 align="center">Hello! I am Surya Pratap Singh,
+  Currently pursuing B.Tech in Computer Science & Engineering from NIT Agartala.
+  Currently I am learning C++.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sp201004&label=Profile%20views&color=0e75b6&style=flat" alt="sp201004" /> </p>
 
