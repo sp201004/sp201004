@@ -1,3 +1,4 @@
+![logo](https://github.com/sp201004/201004/blob/main/sp201004.gif)
 <h1 align="center">Hi there 👋 Myself Surya Pratap Singh</h1>
 <h3 align="center">Currently pursuing B.Tech in Computer Science & Engineering from NIT Agartala.</h3>
 
