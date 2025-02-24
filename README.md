@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/surya-pratap-singh-16930425a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya-pratap-singh-16930425a/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suryapratapsingh1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya-pratap-singh-16930425a/" height="30" width="40" /></a>
 <a href = 'https://www.github.com/sp201004'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href="https://x.com/truething33" target="_blank"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="truething33" /></a>
 <a href="https://leetcode.com/sp201004" target="_blank"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sp201004" /></a>
