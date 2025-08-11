@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **C,C++ programming language.**
 
-- 📫 How to reach me **sp01042002@gmail.com**
+- 📫 How to reach me **sp01042002@gmail.com** & **SURYA_22UCS074@ug.nita.ac.in**
 
 - ⚡ Fun fact **Food and Music🎵 are the reasons to live.**
 <p align="left">
