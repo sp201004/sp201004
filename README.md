@@ -20,13 +20,26 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sp201004" alt="sp201004" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left">
+  <img src="https://img.shields.io/twitter/follow/truething33?logo=twitter&style=for-the-badge" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/twitter/follow/sp20_10?logo=twitter&style=for-the-badge" />
+</p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suryapratapsingh1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya-pratap-singh-16930425a/" height="30" width="40" /></a>
 <a href = 'https://www.github.com/sp201004'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<a href="https://x.com/truething33" target="_blank"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="truething33" /></a>
+<a href="https://x.com/truething33" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg"
+       width="32"
+       alt="X (Twitter)" />
+</a>
+
 <a href="https://leetcode.com/sp201004" target="_blank"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sp201004" /></a>
   <br>
     </p>
