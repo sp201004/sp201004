@@ -40,7 +40,7 @@
        alt="X (Twitter)" />
 </a>
 
-<a href="https://leetcode.com/u/sp0104/" target="_blank"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sp100104" /></a>
+<a href="https://leetcode.com/u/sp0104/" target="_blank"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sp0104" /></a>
   <br>
     </p>
 
